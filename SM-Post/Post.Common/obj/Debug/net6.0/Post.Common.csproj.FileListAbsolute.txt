@@ -1,0 +1,15 @@
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.deps.json
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.dll
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.pdb
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.dll
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.pdb
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.AssemblyReference.cache
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfoInputs.cache
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfo.cs
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CoreCompileInputs.cache
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CopyComplete
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/refint/Post.Common.dll
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
+/Users/natalia/Documents/web/net/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
